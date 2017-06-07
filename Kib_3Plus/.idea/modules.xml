@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kib_3Plus.iml" filepath="$PROJECT_DIR$/Kib_3Plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bluetooth/bluetooth.iml" filepath="$PROJECT_DIR$/../bluetooth/bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bluetoothScan/bluetoothScan.iml" filepath="$PROJECT_DIR$/../bluetoothScan/bluetoothScan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../database/database.iml" filepath="$PROJECT_DIR$/../database/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ota/ota.iml" filepath="$PROJECT_DIR$/../ota/ota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../presenter/presenter.iml" filepath="$PROJECT_DIR$/../presenter/presenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server/server.iml" filepath="$PROJECT_DIR$/../server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sharepreference/sharepreference.iml" filepath="$PROJECT_DIR$/../sharepreference/sharepreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thirdPartyLoginShare/thirdPartyLoginShare.iml" filepath="$PROJECT_DIR$/../thirdPartyLoginShare/thirdPartyLoginShare.iml" />
+    </modules>
+  </component>
+</project>
